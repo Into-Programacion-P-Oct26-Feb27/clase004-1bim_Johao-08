@@ -14,6 +14,8 @@ public class Ejemplo022 {
         // Ejemplo 
         String nombreEstudiante = "René Rolando";
         String apellidoEstudiante = "Elizalde Solano";
+        String miCadena = " ";
+        String presentar = nombreEstudiante+miCadena+apellidoEstudiante;
                 
         System.out.println(nombreEstudiante+apellidoEstudiante);
         System.out.println(nombreEstudiante+" "+apellidoEstudiante);
