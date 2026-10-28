@@ -20,3 +20,4 @@ public class Ejemplo04 {
         System.out.print(nombreEstudiante );
     }
 }
+// Para que sirve el System.out.print: sirve para mostrar todo en una sola linea
