@@ -47,7 +47,8 @@ public class Ejemplo2 {
         
         
    
-        // se necesita poner "entrada.nextLine();" ya que al pasar de decimal a cadena se requiere ua limpieza de baffer en java 
+        /* se necesita poner "entrada.nextLine();" ya que al pasar de decimal a 
+        cadena se requiere ua limpieza de baffer en java*/ 
     }
     
 }
